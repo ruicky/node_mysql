@@ -1,11 +1,16 @@
 # nodejs 版本的 mysql 操作示例
 
+## SQL
+初始化SQL语句： [点我查看](https://raw.githubusercontent.com/ruicky/node_mysql/master/util/InitSQL.sql)
+
 ## 依赖包
 
 1. [mysql](https://www.npmjs.com/package/mysql) 用来连接mysql
 2. [moment](https://www.npmjs.com/package/moment) 用来处理时间
 
 ## 上代码
+
+[具体点击这里查看](./index.js)
 
 > 增
 
