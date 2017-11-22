@@ -14,7 +14,7 @@
 
 > 增
 
-```
+```javascript
 /**
  *  增加
  * 
@@ -49,7 +49,7 @@ function Add(params) {
 
 > 删
 
-```
+```javascript
 /**
  * 删除
  * 
@@ -77,7 +77,7 @@ function Delete(params) {
 
 > 改
 
-```
+```javascript
 /**
  * 修改
  * 
@@ -105,7 +105,7 @@ function Update(params) {
 
 > 查
 
-```
+```javascript
 /**
  * 查询
  * 
@@ -179,7 +179,7 @@ function Select(params) {
 
 > 事务
 
-```
+```javascript
 /**
  * 事务
  * 业务逻辑：先添加用户在添加地址
